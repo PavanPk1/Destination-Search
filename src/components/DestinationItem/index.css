@@ -1,0 +1,15 @@
+.picture {
+  border-radius: 10px;
+  width: 40vh;
+}
+.visitName {
+  color: #000000;
+  font-family: 'Lato';
+  font-size: 18px;
+}
+.placesContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+}
